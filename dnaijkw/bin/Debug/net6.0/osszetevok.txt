@@ -1,0 +1,8 @@
+Alkohol,Bacardi white rum,40
+Folyadek,Ananászlé,50
+Egyeb,Citromkarika,1
+Alkohol,Spitz rum,30
+Folyadek,Angostura keserű likőr,2
+Egyeb,Mentalevél,3
+Alkohol,Bacardi balck rum,30
+Folyadek,Narancslé,50

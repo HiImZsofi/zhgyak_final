@@ -1,0 +1,14 @@
+C:\Egyetem\dnaijkw\dnaijkw\bin\Debug\net6.0\dnaijkw.exe
+C:\Egyetem\dnaijkw\dnaijkw\bin\Debug\net6.0\dnaijkw.deps.json
+C:\Egyetem\dnaijkw\dnaijkw\bin\Debug\net6.0\dnaijkw.runtimeconfig.json
+C:\Egyetem\dnaijkw\dnaijkw\bin\Debug\net6.0\dnaijkw.dll
+C:\Egyetem\dnaijkw\dnaijkw\bin\Debug\net6.0\dnaijkw.pdb
+C:\Egyetem\dnaijkw\dnaijkw\obj\Debug\net6.0\dnaijkw.GeneratedMSBuildEditorConfig.editorconfig
+C:\Egyetem\dnaijkw\dnaijkw\obj\Debug\net6.0\dnaijkw.AssemblyInfoInputs.cache
+C:\Egyetem\dnaijkw\dnaijkw\obj\Debug\net6.0\dnaijkw.AssemblyInfo.cs
+C:\Egyetem\dnaijkw\dnaijkw\obj\Debug\net6.0\dnaijkw.csproj.CoreCompileInputs.cache
+C:\Egyetem\dnaijkw\dnaijkw\obj\Debug\net6.0\dnaijkw.dll
+C:\Egyetem\dnaijkw\dnaijkw\obj\Debug\net6.0\refint\dnaijkw.dll
+C:\Egyetem\dnaijkw\dnaijkw\obj\Debug\net6.0\dnaijkw.pdb
+C:\Egyetem\dnaijkw\dnaijkw\obj\Debug\net6.0\dnaijkw.genruntimeconfig.cache
+C:\Egyetem\dnaijkw\dnaijkw\obj\Debug\net6.0\ref\dnaijkw.dll
